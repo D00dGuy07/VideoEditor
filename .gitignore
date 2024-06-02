@@ -2,6 +2,9 @@
 **/bin/
 **/bin-int/
 
+!vendor/bin
+!vendor/libav/bin
+
 # Visual Studio Files
 .vs/
 **.sln
