@@ -1,0 +1,23 @@
+# Build Directories
+**/bin/
+**/bin-int/
+
+# Visual Studio Files
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.nsight-gfxproj
+**.DotSettings
+**.user
+
+# XCode Files
+**.xcworkspace
+**.xcodeproj
+**.DS_STORE
+
+# GNU Make Files
+**/Makefile
+**/.cache/
+**/compile_commands.json
