@@ -33,6 +33,7 @@ jobs:
       with:
         lfs: true
         submodules: recursive
+        ssh-key: ${{ secrets.SSH_KEY }}
 
     - name: Add MSBuild to PATH
       uses: microsoft/setup-msbuild@v2
