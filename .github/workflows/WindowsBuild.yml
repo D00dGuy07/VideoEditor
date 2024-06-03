@@ -30,6 +30,9 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      env:
+        USERDOMAIN: "NT AUTHORITY"
+        USERNAME: "NetworkService"
       with:
         lfs: true
         submodules: recursive
