@@ -10,3 +10,6 @@
 [submodule "vendor/glm"]
 	path = vendor/glm
 	url = git@github.com:g-truc/glm.git
+[submodule "vendor/arrowhead"]
+	path = vendor/arrowhead
+	url = git@github.com:D00dGuy07/Arrowhead.git

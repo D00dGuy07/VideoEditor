@@ -5,7 +5,6 @@
 #include <iostream>
 
 #include "oglfv2/Util/GLFWEventWrapper.h"
-#include "oglfv2/Util/Timer.h"
 
 #include "oglfv2/Renderer/Renderer.h"
 

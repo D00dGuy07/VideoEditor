@@ -11,6 +11,10 @@ del /q vendor\glfw.vcxproj
 del /q vendor\glfw.vcxproj.filters
 del /q vendor\glfw.vcxproj.user
 
+del /q vendor\arrowhead\Arrowhead.vcxproj
+del /q vendor\arrowhead\Arrowhead.vcxproj.filters
+del /q vendor\arrowhead\Arrowhead.vcxproj.user
+
 del /q vendor\oglfv2\oglfv2.vcxproj
 del /q vendor\oglfv2\oglfv2.vcxproj.filters
 del /q vendor\oglfv2\oglfv2.vcxproj.user

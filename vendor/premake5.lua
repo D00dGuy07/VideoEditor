@@ -113,4 +113,5 @@ PACKAGE_DIRS["glfw"] = path.getabsolute("./glfw")
 PACKAGE_DIRS["glm"] = path.getabsolute("./glm")
 PACKAGE_DIRS["stb"] = path.getabsolute("./stb")
 
+include "arrowhead"
 include "oglfv2"
